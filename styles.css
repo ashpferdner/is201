@@ -1,0 +1,52 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/82/7c/70/827c700da511b9f7f84a52b23af3bb85.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    align-items: center;
+    flex-direction: column;
+}
+
+.tableaustyle{
+    width: 100% !important;
+    display: block;
+    margin:auto;
+}
+li{
+    color: rgb(22, 9, 103);
+}
+
+img{
+    display: block;
+    border: solid rgb(3, 0, 98) 3px;
+    padding: 4px;
+    margin: auto;
+
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 40%;
+}
+
+h1{
+    
+        color:rgb(9, 11, 103);
+        font-size: xx-large;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+
+}
+
+.video{
+ margin-left: auto;
+ margin-right: auto;
+ display: block;
+ padding: 40px; 
+}
+
+.color{
+    margin-left: 100px;
+    margin-right: auto;
+    display: center;
+    padding: 40px; 
+   }
